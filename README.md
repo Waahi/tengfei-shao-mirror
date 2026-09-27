@@ -1,6 +1,6 @@
 # Tengfei Shao — GitHub Pages mirror
 
-Mirror: https://waahi.github.io/tengfei-shao-mirror/
+Mirror: https://waahi.github.io/tengfeishao/
 
 Main website: https://tengfeishao.com/
 
@@ -17,4 +17,4 @@ build or server is required.
 
 This is a snapshot mirror. Updating the original Sites website does not
 automatically synchronize this repository. Keep asset URLs relative so they work
-under the `/tengfei-shao-mirror/` project path.
+under the `/tengfeishao/` project path.
